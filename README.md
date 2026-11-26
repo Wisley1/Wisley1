@@ -53,4 +53,18 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Question Graph](https://github.com/ai-chem/question-graph)
+
+Синтетические QA-бенчмарки для оценки достоверности RAG. Статья подана на AAAI 2026.
+
+`██░░░░░░░░░░░░░░░░░░` **9%**
+
+**12 из 133** коммитов
+
+</td>
+<td width="50%"></td>
+</tr>
 </table>
