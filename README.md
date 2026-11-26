@@ -1,8 +1,11 @@
 # Иван Головкин
 
-Машинное обучение для химии и биологии. Университет ИТМО.
+Machine learning for chemistry and biology.
 
-[Google Scholar](https://scholar.google.ru/citations?user=Y_1HXUAAAAAJ&hl=ru) · [ORCID](https://orcid.org/0009-0003-8873-0314)
+Master's in Artificial Intelligence, AI Talent Hub, ITMO (2025–2027)<br>
+Bachelor's in Biotechnology, ITMO (2021–2025)<br>
+[ORCID](https://orcid.org/0009-0003-8873-0314)<br>
+[Google Scholar](https://scholar.google.ru/citations?user=Y_1HXUAAAAAJ&hl=ru)
 
 <table>
 <tr>
