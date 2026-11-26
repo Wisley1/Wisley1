@@ -2,6 +2,8 @@
 
 Машинное обучение для химии и биологии. Университет ИТМО.
 
+[Google Scholar](https://scholar.google.ru/citations?user=Y_1HXUAAAAAJ&hl=ru) · [ORCID](https://orcid.org/0009-0003-8873-0314)
+
 <table>
 <tr>
 <td width="50%" valign="top">
