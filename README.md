@@ -68,3 +68,13 @@
 <td width="50%"></td>
 </tr>
 </table>
+
+## Публикации
+
+- Golovkin I., Shatkovskii D., Serov N. Two-Stage Probability-Enhanced Regression on Property Matrices and LLM Embeddings Enables State-of-the-Art Prediction of Gene Knockdown by Modified siRNAs. [International Journal of Molecular Sciences, 2025](https://www.mdpi.com/1422-0067/26/24/11791).
+- Golovkin I., Druzhininskii S., Litunovskiy D., Taldaev A., Brilenkov E., Serov N. In silico evaluation of pre-training strategies based on synthetic data for functional DNA generation. [ICML 2026 Workshop AI4Science](https://openreview.net/forum?id=XqF6XJ6dOG).
+- Aquino A., Korneva L., Osipova M., Bortsova M., Simonenko M., Sambur D., Golovkin I., et al. Plasma Extracellular Vesicle Profiles After Heart Transplantation are Associated With the Type of Allograft Rejection. [Frontiers in Bioscience-Landmark, 2026](https://doi.org/10.31083/FBL50478).
+- Neklesova M.V., Sogomonyan K.S., Golovkin I.A., et al. Gut Microbiome Signatures in Multiple Sclerosis: A Case-Control Study with Machine Learning and Global Data Integration. [Biomedicines, 2025](https://doi.org/10.3390/biomedicines13081806).
+- Golovkin I.A., Druzhininskii S.M., Litunovskiy D.Yu. Открытие новых ДНКзимов с использованием генеративных методов и иерархического скрининга. [Тезисы КМУ ИТМО 2026](https://kmu.itmo.ru/digests/article/16265).
+- Golovkin I.A., et al. Прогнозирование эффективности siRNA для нокдауна генов. [Тезисы КМУ ИТМО 2025](https://kmu.itmo.ru/digests/article/14194).
+- Aquino A., Rubinstein A.A., Golovkin I.A., et al. Features of Extracellular Vesicle Production by THP-1 Cells during In Vitro Stimulation. [Complex Issues of Cardiovascular Diseases, 2024](https://doi.org/10.17802/2306-1278-2024-13-3-154-166).
