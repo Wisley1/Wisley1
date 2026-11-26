@@ -16,6 +16,7 @@ jobs:
       - name: Refresh commit bars
         env:
           STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: python3 scripts/update_commit_bars.py
       - name: Commit README when the counts changed
         run: |

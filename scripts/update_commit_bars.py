@@ -49,9 +49,8 @@ def contributors(repo):
         env=env,
     )
     if result.returncode != 0:
-        message = (result.stderr or result.stdout).strip().splitlines()
-        detail = message[-1] if message else "request failed"
-        raise RuntimeError(detail)
+        detail = (result.stderr or result.stdout).strip().replace("\n", " ")
+        raise RuntimeError(detail[:300] or "request failed")
     mine = 0
     total = 0
     for line in result.stdout.splitlines():
