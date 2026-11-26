@@ -37,9 +37,9 @@ Antimicrobial peptide design with conditional ProtGPT3 and LoRA. 2nd place, Neur
 
 Generative models and hierarchical screening of DNAzyme catalytic cores. [ICML 2026 Workshop](https://openreview.net/forum?id=XqF6XJ6dOG).
 
-`███████████░░░░░░░░░` **57%**
+`█████████████░░░░░░░` **67%**
 
-**4 of 7** commits
+**6 of 9** commits
 
 </td>
 <td width="50%" valign="top">
