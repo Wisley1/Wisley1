@@ -22,7 +22,7 @@ Multi-agent system that finds tabular datasets for a query, downloads them, and 
 
 ### [AMP Challenge](https://github.com/ai-chem/AMP_competition)
 
-Antimicrobial peptide design with conditional ProtGPT3 and LoRA. 2nd place, NeurIPS 2026. [Kaggle leaderboard](https://www.kaggle.com/competitions/amp-challenge/leaderboard).
+Antimicrobial peptide design with conditional ProtGPT3 and LoRA. 2nd place, NeurIPS 2026. [Kaggle leaderboard](https://www.kaggle.com/competitions/amp-challenge/discussion/754211).
 
 `████████░░░░░░░░░░░░` **42%**
 
